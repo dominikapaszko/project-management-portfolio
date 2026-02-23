@@ -63,6 +63,10 @@ The project was executed using **Agile methodology**, divided into four main sta
 4. **Deployment & Communication**  
    - Release the new feature in the mobile app and notify clients  
    - Stakeholders: Marketing, Customer Support
+     
+5. **Project Timeline**
+ <img width="1973" height="506" alt="image" src="https://github.com/user-attachments/assets/4bfd9ab4-0b6c-4024-b0b1-0d813b4e6719" />
+<img width="1896" height="527" alt="image" src="https://github.com/user-attachments/assets/d4e33ab4-c7a6-4dbf-9917-f3d822d910a5" />
 
 ## Risks & Mitigation
 
