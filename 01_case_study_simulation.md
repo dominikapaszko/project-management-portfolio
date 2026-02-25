@@ -75,7 +75,9 @@ A breakdown showing the timeline divided into smaller sections
 <img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/c42c1389-fb50-4b00-9f0a-c6b7cdff6ac7" />
 <img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/52f6687e-a2f8-4dde-a6aa-721b8b7c3f78" />
 
-6. **Project Timeline**
+6. **Process diagram**
+
+<img width="858" height="1164" alt="image" src="https://github.com/user-attachments/assets/40f48ffe-0b4f-4d0d-b96a-ef8571b3587e" />
 
 ## Risks & Mitigation
 
