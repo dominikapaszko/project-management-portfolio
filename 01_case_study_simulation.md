@@ -65,6 +65,7 @@ The project was executed using **Agile methodology**, divided into four main sta
    - Stakeholders: Marketing, Customer Support
      
 5. **Project Timeline**
+
 High level project timeline showing phases from planning to deployment
 <img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/db842e00-b8a1-409f-aeca-d0bfaae4332c" />
 A breakdown showing the timeline divided into smaller sections
