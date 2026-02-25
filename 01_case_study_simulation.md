@@ -65,8 +65,14 @@ The project was executed using **Agile methodology**, divided into four main sta
    - Stakeholders: Marketing, Customer Support
      
 5. **Project Timeline**
- <img width="1973" height="506" alt="image" src="https://github.com/user-attachments/assets/4bfd9ab4-0b6c-4024-b0b1-0d813b4e6719" />
-<img width="1896" height="527" alt="image" src="https://github.com/user-attachments/assets/d4e33ab4-c7a6-4dbf-9917-f3d822d910a5" />
+<img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/db842e00-b8a1-409f-aeca-d0bfaae4332c" />
+*High level project timeline showing phases from planning to deployment.*
+<img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/0e0cf942-85a5-4402-b321-96f657238347" />
+<img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/4eb74eee-139f-4233-bf1a-d0c2a6ed86e1" />
+<img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/0249520f-8d4a-4173-b21f-b5008d5c64a1" />
+<img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/c42c1389-fb50-4b00-9f0a-c6b7cdff6ac7" />
+<img width="2069" height="483" alt="image" src="https://github.com/user-attachments/assets/52f6687e-a2f8-4dde-a6aa-721b8b7c3f78" />
+*A breakdown showing the timeline divided into smaller sections.*
 
 ## Risks & Mitigation
 
