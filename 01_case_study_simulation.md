@@ -92,6 +92,9 @@ A breakdown showing the timeline divided into smaller sections
 - Ensure compliance with legal and regulatory requirements  
 - Present project plan to the steering committee and gather feedback  
 - Align closely with accounting and compliance teams to verify processes
+- Risk Matrix:
+<img width="1258" height="643" alt="image" src="https://github.com/user-attachments/assets/5b0a0c16-2543-4c3d-b919-887d59dab380" />
+
 
 ## Results & Lessons Learned
 
