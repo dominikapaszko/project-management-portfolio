@@ -52,7 +52,8 @@ The project was executed using **Agile methodology**, divided into four main sta
    - Define project requirements, assumptions, budget, and timeline  
    - Stakeholders: Project Manager, Product Owner
    - Kanban Board example
-<img width="1549" height="522" alt="image" src="https://github.com/user-attachments/assets/07d30f3a-1ef2-40fa-a842-ebb6450f7550" />
+<img width="1549" height="522" alt="image" src="https://github.com/user-attachments/assets/5f09517f-b360-4847-95b7-0f3f1483b776" />
+
 
 2. **Legal & Compliance Check**  
    - Verify legal and regulatory constraints  
